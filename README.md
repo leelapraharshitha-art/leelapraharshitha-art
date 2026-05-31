@@ -1,8 +1,8 @@
 # Hi there, I'm Leela Praharshitha! 👋
 
 ### 🚀 Aspiring Software Developer | AI & Full Stack Development Enthusiast
-Welcome to my GitHub profile! I am a Computer Science & Engineering student passionate about problem-solving, building clean software architectures, and analyzing efficient algorithms.
 
+I am a passionate **Computer Science & Engineering student** from Andhra Pradesh, India. My core strengths lie in problem-solving, building clean software architectures, and analyzing efficient algorithms. I love exploring new technologies and am actively working on sharpening my software development and technical skills.
 
 - 🎓 **Current Focus:** Pursuing my degree in Computer Science & Engineering.
 - 💻 **Key Interests:** Software Development, Algorithm Analysis, and Artificial Intelligence.
@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I am a Computer Science & Engineering student pass
 - 🎯 **Goals:** Constantly challenging myself with data structures and algorithmic puzzles to solve real-world problems.
 
 ---
-
 
 ## 🛠️ Core Tech Stack & Skills
 
@@ -36,7 +35,7 @@ Welcome to my GitHub profile! I am a Computer Science & Engineering student pass
 
 ---
 
-## 📈 Coding Profiles & Metrics
+## 📈 Coding Profiles
 <p align="left">
   <a href="https://leetcode.com/u/leela-praharshitha" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
@@ -46,13 +45,27 @@ Welcome to my GitHub profile! I am a Computer Science & Engineering student pass
   </a>
 </p>
 
-<details>
-  <summary><b>📊 Click to expand my GitHub Stats</b></summary>
-  <br/>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leelapraharshitha-art&show_icons=true&theme=dark" alt="Leela's GitHub Stats" />
-  <br/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leelapraharshitha-art&theme=dark" alt="Leela's GitHub Streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leelapraharshitha-art&layout=compact&theme=dark" alt="Top Languages" />
-</details>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+I love analyzing complex puzzle constraints, optimizing data sequences down to their fastest execution runtime, and matching bright aesthetics with positive vibes! ✨
 
 ---
 
@@ -60,4 +73,4 @@ Welcome to my GitHub profile! I am a Computer Science & Engineering student pass
 * **Email:** leelapraharshitha@gmail.com
 * **LinkedIn:** [in/leelapraharshitha-ballepalli-13909930b](https://linkedin.com/in/leelapraharshitha-ballepalli-13909930b)
 
-_"Building the future, one line of clean code at a time."_
+<p align="center">✨ Thanks for visiting my profile ✨</p>
