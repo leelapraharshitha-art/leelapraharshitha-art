@@ -1,5 +1,5 @@
 # README.MD
-Hiiii👋, I'm Leela
+            Hii👋, I'm Leela
 ABOUT ME :
 🎓 Computer Science Student with a passion for technology
 💻 Building projects using Full Stack Development and AI
