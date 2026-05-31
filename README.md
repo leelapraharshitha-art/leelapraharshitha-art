@@ -30,8 +30,6 @@ Welcome to my GitHub profile! I am a Computer Science & Engineering student pass
 ---
 
 ## 📈 Coding Profiles & Metrics
-Below are quick links to track my competitive programming, problem-solving progress, and real-time GitHub metrics!
-
 <p align="left">
   <a href="https://leetcode.com/u/leela-praharshitha" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
