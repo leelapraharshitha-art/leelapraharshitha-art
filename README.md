@@ -3,7 +3,14 @@
 ### 🚀 Aspiring Software Developer | AI & Full Stack Development Enthusiast
 Welcome to my GitHub profile! I am a Computer Science & Engineering student passionate about problem-solving, building clean software architectures, and analyzing efficient algorithms.
 
+
+- 🎓 **Current Focus:** Pursuing my degree in Computer Science & Engineering.
+- 💻 **Key Interests:** Software Development, Algorithm Analysis, and Artificial Intelligence.
+- ⚙️ **Daily Tools:** Writing clean, optimized code using **C** and **Python**.
+- 🎯 **Goals:** Constantly challenging myself with data structures and algorithmic puzzles to solve real-world problems.
+
 ---
+
 
 ## 🛠️ Core Tech Stack & Skills
 
